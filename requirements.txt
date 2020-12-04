@@ -119,7 +119,6 @@ monotonic==1.5
 multi-key-dict==2.0.3
 multidict==4.5.2
 multiprocess==0.70.8
-mysqlclient==1.3.14
 nose==1.3.7
 nose-ignore-docstring==0.2
 numpy==1.16.4
