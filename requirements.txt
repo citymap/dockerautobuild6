@@ -218,7 +218,6 @@ traceback2==1.4.0
 traitlets==4.3.2
 tzlocal==1.5.1
 unicodecsv==0.14.1
-unittest2==1.1.0
 urllib3==1.22
 vertica-python==0.9.4
 vine==1.3.0
